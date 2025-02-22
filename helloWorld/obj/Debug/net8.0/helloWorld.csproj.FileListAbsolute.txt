@@ -1,0 +1,15 @@
+D:\GitHub\cSharp\helloWorld\bin\Debug\net8.0\helloWorld.exe
+D:\GitHub\cSharp\helloWorld\bin\Debug\net8.0\helloWorld.deps.json
+D:\GitHub\cSharp\helloWorld\bin\Debug\net8.0\helloWorld.runtimeconfig.json
+D:\GitHub\cSharp\helloWorld\bin\Debug\net8.0\helloWorld.dll
+D:\GitHub\cSharp\helloWorld\bin\Debug\net8.0\helloWorld.pdb
+D:\GitHub\cSharp\helloWorld\obj\Debug\net8.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\cSharp\helloWorld\obj\Debug\net8.0\helloWorld.AssemblyInfoInputs.cache
+D:\GitHub\cSharp\helloWorld\obj\Debug\net8.0\helloWorld.AssemblyInfo.cs
+D:\GitHub\cSharp\helloWorld\obj\Debug\net8.0\helloWorld.csproj.CoreCompileInputs.cache
+D:\GitHub\cSharp\helloWorld\obj\Debug\net8.0\helloWorld.sourcelink.json
+D:\GitHub\cSharp\helloWorld\obj\Debug\net8.0\helloWorld.dll
+D:\GitHub\cSharp\helloWorld\obj\Debug\net8.0\refint\helloWorld.dll
+D:\GitHub\cSharp\helloWorld\obj\Debug\net8.0\helloWorld.pdb
+D:\GitHub\cSharp\helloWorld\obj\Debug\net8.0\helloWorld.genruntimeconfig.cache
+D:\GitHub\cSharp\helloWorld\obj\Debug\net8.0\ref\helloWorld.dll
